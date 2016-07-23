@@ -1,4 +1,6 @@
 # MarkdownPhotos
-Store photos for Markdown
-![zzya](zzya.jpg)
 
+![zzya](https://github.com/zzya/MarkdownPhotos/zzya.jpg)
+
+
+Store photos for Markdown
